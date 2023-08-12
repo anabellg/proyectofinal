@@ -29,8 +29,9 @@ body{
     display: flex;
     position: absolute;
     bottom: auto;
-    top: 15%;
-    padding: 160px 460px 160px 460px;
+    width: 100%;
+    /* top: 15%; */
+    /* padding: 160px 460px 160px 460px; */
     z-index: 100;
     flex-direction: column;
     justify-content: center;
